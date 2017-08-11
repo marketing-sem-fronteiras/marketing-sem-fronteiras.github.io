@@ -23,6 +23,7 @@
                         <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-direction"></use>
                     </svg>
                 </a>
+                <a href="https://maps.google.com/maps?ll={{ site.locationBlockTitlecm | replace:' ',''}}&z=17&t=m&hl=en-US&gl=US&mapclient=embed&q={{ site.eventStreetAddresscm | replace:' ','%20' | replace:',','%2C'}}%2C%20{{ site.eventAddressLocalitycm | replace:' ','%20' | replace:',','%2C'}}" class="view-on-map" target="_blank">{{ site.viewOnMap }}</a>
             </div>
         </div>
     </div>
