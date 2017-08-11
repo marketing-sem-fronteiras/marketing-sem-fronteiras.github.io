@@ -1,0 +1,25 @@
+- 
+  id: 3
+  name: "Soraia"
+  surname: "Novaes"
+  company: "Desafio do Código"
+  title: "Publicitária"
+  bio: "Graduada em Comunicação Social, Publicidade e Propaganda, especialista em aplicativos e ferramentas da Google, sendo professora certificada Google Trainer e Innovator. Co-founder e tutora do Desafio do Código, tradutora plena da Khan Academy e autora do livro “Tecnologias para Inovação nas Escolas”. Coordenou o Centro de Design do Centro Tecnológico de Maringá, por 11 anos, atuando com a sensibilização, articulação e desenvolvimento de projetos inovadores em mais de 100 empresas."
+  thumbnailUrl: SoraiaNovaes.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+SoraiaNovaes/"}
+    - {name: "facebook", link: "https://facebook.com/professoragoogle/"}
+    - {name: "twitter", link: "https://twitter.com/edtecnova"}
+- 
+  id: 4
+  name: "Lucas"
+  surname: "Maranho"
+  company: "APDWeb"
+  title: "SEO"
+  bio: 'Com 11 anos de experiência no setor de TI. Iniciou seus trabalhos em Maringá e desde 2014 trabalha com Marketing Online em Madrid, Espanha. Com um trabalho focado em SEO, desenvolve projetos de Cross Media, Community Manager, Estratégias de Marketing Online e Posicionamento SEO, na Apasionados por el Desarrollo Web - APDWeb, e, em parceria a Agencia espanhola USEO, atende clientes do Brasil e Espanha.'
+  thumbnailUrl: LucasMaranho.jpg
+  rockstar: true
+  social: 
+    - {name: "facebook", link: "https://facebook.com/apdweb/"}
+    - {name: "twitter", link: "https://twitter.com/lucasmaranhop"}

@@ -1,0 +1,23 @@
+-
+  id: 307
+  title: "Hora das Perguntas"
+  service: true
+  description: "Abertura para bate-papo. Aproveite para tirar suas dúvidas."
+-
+  id: 001
+  title: "Tendências e Insights na Era Digital"
+  description: "Nessa palestra vamos conhecer as tendências da Era Digital que estão revolucionando o mercado."
+  subtype: palestra
+  speakers: [3]
+  language: pt-br
+  complexity: "Iniciante"
+  video: "//www.youtube.com/embed/oOF1OIEHc0E"
+-
+  id: 002
+  title: "Sua página Web está desenhada para quem? SEO - Descobrindo seu buyer persona"
+  description: ""
+  subtype: palestra
+  speakers: [4]
+  language: pt-br
+  complexity: "Iniciante" 
+

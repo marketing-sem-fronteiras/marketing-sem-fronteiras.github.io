@@ -1,0 +1,174 @@
+# Plugins
+gems:
+- jekyll-sitemap
+safe: false
+
+# Build Settings
+markdown: kramdown
+permalink: pretty
+exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
+
+
+# Site Settings
+title: "Marketing sem Fronteiras"
+email: "contato@soraianovaes.com"
+description: "Conexão Brasil Espanha"
+baseurl: ""
+url: "https://marketing-sem-fronteiras.github.io"
+permalink: "/blog/:title"
+googleAnalyticsTrackingId: ""
+googleAnalyticsSiteUrl: ""
+siteVerification: ""
+
+# Organizer Info
+organizerName: "Marketing Sem Fronteiras"
+organizerAlternateName: "Marketing Sem Fronteiras"
+organizerDescription: "Evento sobre Tendências e Marketing na Era Digital."
+organizerEmail: "contato@soraianovaes.com"
+organizerLogo: "/img/seo/mkt-logo.png"
+organizerLink: "http://edtecnova.es/"
+
+# Head
+metaKeywords: "evento, marketing, inbound, google, trends"
+twitterAccount: "@edtecnova"
+socialImageSrcGooglePlus: "/img/seo/mkt-logo.PNG"
+socialImageSrcTwitter: "/img/seo/mkt-logo.PNG"
+socialImageSrcFacebook: "/img/seo/mkt-logo.PNG"
+
+# Navigation
+navigationLinks:
+ - {permalink: "/", text: "Home"}
+ - {permalink: "/blog/", text: "Blog"}
+ - {permalink: "/schedule/", text: "programação"}
+ - {permalink: "/speakers/", text: "Palestrantes"}
+ 
+# Hero Block
+heroImage: "hero.jpg"
+heroTitle: "Marketing sem Fronteiras <typeout> 2017"
+eventDate: "Conexão Brasil - Espanha"
+typeoutTextValues: '"", "Madri", "Maringá", "Campo Mourão"'
+typeoutFallback: "Season"
+heroButtons:
+  - {permalink: "/#tickets", text: "Reserve sua vaga"}
+
+# About Block
+aboutTitle: "Sobre o Evento"
+aboutBlock:
+ - {title: "Palestra", image: "conference.jpg", text: "Lidere com Google. Tendências e Insights na Era Digital" }
+ - {title: "Palestra", image: "workshop.jpg", text: "Sua página Web está desenhada para quem?<br> SEO - Descobrindo seu buyer persona" }
+
+# Statistic Block
+statisticBlockImage: "statistic.jpg"
+statisticBlock:
+ - {count: "140", specialCharacter: "+", info: "vagas", detail: "em cada cidade"}
+ - {count: "6", specialCharacter: "+", info: "horas", detail: "de conteúdo"}
+ - {count: "2", specialCharacter: "", info: "palestrante", detail: "daqui e de fora"}
+ - {count: "2", specialCharacter: "", info: "temas", detail: "mais debate com o público"}
+
+# Latest News Block
+latestNewsTitle: "Últimas Notícias"
+
+# Rockstar Speakers Block
+rockstarSpeakersImage: "rockstar-speakers.jpg"
+rockstarSpeakersCount: 2
+rockstarSpeakersTitle: "Palestrantes"
+rockstarSpeakersButtonText: "Saiba mais sobre os palestrantes"
+
+# Location Block
+locationBlockTitle: "Localização"
+eventLocationName: "ACIM"
+eventLocationLink: "http://www.acim.com.br/"
+eventStreetAddress: "R. Ver. Basílio Sautchuk, 388"
+eventAddressLocality: "Maringá"
+eventAddressLocalityRegion: "Paraná"
+eventPostalCode: "87013-190"
+eventAddressCountry: "Brasil"
+eventStartTime: "2017-08-28T19:00"
+eventDoorTime: "18:30"
+eventEndTime: "2017-08-28T22:00"
+eventPlaceCoordinates: "-23.4221308, -51.9415136"
+mapCenterCoordinates: "-23.4221308, -51.9415136"
+mapMobileCenterCoordinates: "-23.4225353, -51.9412747"
+
+# Location2 Block
+locationBlockTitlecm: "Localização"
+eventLocationNamecm: "ACICAM"
+eventLocationLinkcm: "http://acicam.com.br/"
+eventStreetAddresscm: "Av. Irmãos Pereira, 963"
+eventAddressLocalitycm: "Campo Mourão"
+eventAddressLocalityRegioncm: "Paraná"
+eventPostalCodecm: "87301-010"
+eventAddressCountrycm: "Brasil"
+eventStartTimecm: "2017-08-21T19:00"
+eventDoorTimecm: "18:30"
+eventEndTimecm: "2017-08-21T22:00"
+eventPlaceCoordinatescm: "-24.0460299, -52.3786885"
+mapCenterCoordinatescm: "-24.0460299, -52.3786885"
+mapMobileCenterCoordinatescm: "-24.0462165, -52.3789421"
+
+
+# Partners Block
+organizersTitle: "Organizadores"
+partnersTitle: "Parceiros"
+
+# Subscribe Block
+subscribeImage: "subscribe.jpg"
+subscribeTitle: "Inscreva-se"
+subscribeAction: "http://eepurl.com/cZhXpb"
+subscribeInfo: "Receba as novidades do Marketing sem Fronteiras. Fique conectado conosco!"
+
+# Tickets Block
+ticketsTitle: "Participe"
+ticketsOffers:
+ -
+  name: "Campo Mourão"
+  price: "Gratuito"
+  priceCurrency: "R$"
+  ticketsNumber: "70"
+  ribbon: "21/08"
+  featured: true
+  buyButtonLink: "http://"
+  buyButtonText: "Reserve Agora"
+  ticketContentList: ["Tendências e Insights na Era Digital", "Sua página Web está desenhada para quem? SEO - Descobrindo seu buyer persona"]
+  validFrom: "2017-08-21T19:00"
+  validThrough: "2017-08-21T22:00"
+ -
+  name: "Maringá"
+  price: "Gratuito"
+  priceCurrency: "R$"
+  ticketsNumber: "70"
+  ribbon: "28/08"
+  buyButtonLink: ""
+  buyButtonText: "Reserve Agora"
+  ticketContentList: ["Tendências e Insights na Era Digital", "Sua página Web está desenhada para quem? SEO - Descobrindo seu buyer persona"]
+  validFrom: "2017-08-28T19:00"
+  validThrough: "2017-08-28T22:00"
+  
+# Footer
+socialLinks:
+ - {link: "https://twitter.com/intent/user?screen_name=edtecnova", icon: "twitter"}
+ - {link: "https://facebook.com/professoragoogle", icon: "facebook"}
+
+footerBlocks:
+ -
+  title: "Links"
+  links:
+   - {link: "https://edtecnova.es", text: "EdTecNova"}
+   - {link: "http://apdweb.es", text: "APDWeb"}
+   - {link: "https://desafiodocodigo.com.br", text: "Desafio do Código"}
+ -
+  title: "Contato"
+  links:
+   - {link: "mailto:contato@soraianovaes.com", text: "contato@soraianovaes.com"}
+
+# Blog
+blogTitle: "Últimas Notícias"
+discusShortName: "marketingsemfronteiras"
+
+# Speakers List Block
+showSessions: true
+
+# Team Block
+teamBlockTitle: "Sobre o Evento"
+aboutUs: "A comunicação está em constante transformação e, nesse cenário, acompanhar todas essas mudanças, aproveitando o melhor de cada alternativa, é o grande desafio para as empresas que estão batalhando pela atenção do consumidor. O Marketing Digital ampliou a forma como as marcas se aproximam de seu público e encurtou caminhos e conseguir enxergar esses movimentos e acompanhar todo esse dinamismo é fundamental para se manter no mercado. O evento promove a abertura de um espaço para potencializar e ampliar encontros e diálogos entre empreendedores e líderes, além de demonstrar aplicações práticas de ferramentas para colaboração, autoria, criação, aprendizado."
+

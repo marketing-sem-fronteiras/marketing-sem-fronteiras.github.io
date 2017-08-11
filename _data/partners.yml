@@ -1,0 +1,5 @@
+- 
+  group: ""
+  elements: 
+    - {name: "ACIM", description: "Associação Comercial de Maringá", link: "http://acicam.com.br", imageUrl: "logo-acicam1.png"}
+    - {name: "ACICAM", description: "Associação Comercial de Campo Mourão", link: "http://www.acim.com.br/", imageUrl: "logoacim.png"}

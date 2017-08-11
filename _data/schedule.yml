@@ -1,0 +1,44 @@
+- 
+  date: "2017-08-21"
+  dateReadable: "Agosto 21 em Campo Mourão"
+  tracks: 
+    - {title: "Marketing sem Fronteiras", color: "#90be4e"}
+  
+  timeslots:
+    - {
+    	startTime: "19:00",
+    	endTime: "20:00",
+    	sessionIds: [001]
+    }
+    - {
+        startTime: "20:00",
+        endTime: "21:00",
+        sessionIds: [002]
+    }
+    - {
+    	startTime: "21:00",
+    	endTime: "22:00",
+    	sessionIds: [307]
+    }
+- 
+  date: "2017-08-28"
+  dateReadable: "Agosto 28 em Maringá"
+  tracks: 
+   - {title: "Marketing sem Fronteiras", color: "#90be4e"}
+   
+  timeslots: 
+    - {
+        startTime: "19:00",
+        endTime: "20:00",
+        sessionIds: [001]
+    }
+    - {
+        startTime: "20:00",
+        endTime: "21:00",
+        sessionIds: [002]
+    }
+    - {
+        startTime: "21:00",
+        endTime: "22:00",
+        sessionIds: [307]
+    }
