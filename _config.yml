@@ -16,8 +16,8 @@ description: "Conexão Brasil Espanha"
 baseurl: ""
 url: "http://marketingsemfronteiras.com.br"
 permalink: "/:title"
-googleAnalyticsTrackingId: ""
-googleAnalyticsSiteUrl: ""
+googleAnalyticsTrackingId: "UA-71228062-24"
+googleAnalyticsSiteUrl: "marketingsemfronteiras.com.br"
 siteVerification: "5i-U2JCDBGRZ7111DEL1lgKMX-bfBfWl2EMHlmtgYks"
 
 # Organizer Info
@@ -74,7 +74,8 @@ rockstarSpeakersCount: 2
 rockstarSpeakersTitle: "Palestrantes"
 rockstarSpeakersButtonText: "Saiba mais sobre os palestrantes"
 
-# Location2 Block
+
+# Location Block
 locationBlockTitle: "Localização"
 eventLocationName: "ACIM"
 eventLocationLink: "http://www.acim.com.br/"
@@ -89,6 +90,7 @@ eventEndTime: "2017-08-28T22:00"
 eventPlaceCoordinates: "-23.4221308, -51.9415136"
 mapCenterCoordinates: "-23.4221308, -51.9415136"
 mapMobileCenterCoordinates: "-23.4225353, -51.9412747"
+
 
 # Hackathon Location Block
 hackathonLocationBlockTitle: "Localização"
