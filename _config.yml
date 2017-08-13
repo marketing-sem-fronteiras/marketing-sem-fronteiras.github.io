@@ -74,22 +74,6 @@ rockstarSpeakersCount: 2
 rockstarSpeakersTitle: "Palestrantes"
 rockstarSpeakersButtonText: "Saiba mais sobre os palestrantes"
 
-# Location Block
-cmlocationBlockTitle: "Localização"
-cmeventLocationName: "ACICAM"
-cmeventLocationLink: "http://acicam.com.br/"
-cmeventStreetAddress: "Av. Irmãos Pereira, 963"
-cmeventAddressLocality: "Campo Mourão"
-cmeventAddressLocalityRegion: "Paraná"
-cmeventPostalCode: "87301-010"
-cmeventAddressCountry: "Brasil"
-cmeventStartTime: "2017-08-21T19:00"
-cmeventDoorTime: "18:30"
-cmeventEndTime: "2017-08-21T22:00"
-cmeventPlaceCoordinates: "-24.0460299, -52.3786885"
-cmmapCenterCoordinates: "-24.0460299, -52.3786885"
-cmmapMobileCenterCoordinates: "-24.0460299, -52.3786885"
-
 # Location2 Block
 locationBlockTitle: "Localização"
 eventLocationName: "ACIM"
@@ -107,10 +91,10 @@ mapCenterCoordinates: "-23.4221308, -51.9415136"
 mapMobileCenterCoordinates: "-23.4225353, -51.9412747"
 
 # Hackathon Location Block
-hackathonLocationBlockTitle: "Location"
+hackathonLocationBlockTitle: "Localização"
 hackathonLocationName: "ACICAM"
-hackathonLocationLink: "http://communa.net.ua/"
-hackathonStreetAddress: "http://acicam.com.br/"
+hackathonLocationLink: "http://acicam.com.br/"
+hackathonStreetAddress: "Av. Irmãos Pereira, 963"
 hackathonAddressLocality: "Campo Mourão"
 hackathonAddressLocalityRegion: "Paraná"
 hackathonPostalCode: "87301-010"
