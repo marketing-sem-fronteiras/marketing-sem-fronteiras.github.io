@@ -62,8 +62,8 @@ statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "70", specialCharacter: "+", info: "vagas", detail: "por cidade"}
  - {count: "3", specialCharacter: "+", info: "horas", detail: "de conteúdo"}
- - {count: "2", specialCharacter: "", info: "palestrante", detail: "daqui e de fora"}
- - {count: "2", specialCharacter: "", info: "temas", detail: "mais debate com o público"}
+ - {count: "2", specialCharacter: "", info: "palestrantes", detail: "daqui e de fora"}
+ - {count: "2", specialCharacter: "", info: "temas", detail: "+ debate com o público"}
 
 # Latest News Block
 latestNewsTitle: "Últimas Notícias"
