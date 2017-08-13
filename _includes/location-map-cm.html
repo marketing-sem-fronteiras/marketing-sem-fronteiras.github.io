@@ -1,5 +1,5 @@
 <!-- Begin Location Section -->
-<section id="location-map-cm" class="location-map">
+<section id="location-map-cm" class="location-map-cm">
     <div id="canvas-map" class="canvas-map"></div>
     <div class="content-wrapper">
         <div class="col-lg-3 col-md-4 col-sm-6 col-md-offset-1 animated hiding location-description text-left" data-animation="fadeInLeft" data-delay="0">
@@ -23,8 +23,7 @@
                         <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-direction"></use>
                     </svg>
                 </a>
-                <a href="https://maps.google.com/maps?ll={{ site.locationBlockTitlecm | replace:' ',''}}&z=17&t=m&hl=en-US&gl=US&mapclient=embed&q={{ site.eventStreetAddresscm | replace:' ','%20' | replace:',','%2C'}}%2C%20{{ site.eventAddressLocalitycm | replace:' ','%20' | replace:',','%2C'}}" class="view-on-map" target="_blank">{{ site.viewOnMap }}</a>
-            </div>
+               </div>
         </div>
     </div>
 </section>
