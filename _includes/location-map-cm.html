@@ -5,16 +5,16 @@
         <div class="col-lg-3 col-md-4 col-sm-6 col-md-offset-1 animated hiding location-description text-left" data-animation="fadeInLeft" data-delay="0">
             <div class="row">
                 <div class="pull-left">
-                    <h3>{{ site.locationBlockTitlecm }}</h3>
+                    <h3>{{ site.cmlocationBlockTitle }}</h3>
                     <ul>
-                        {% if site.eventLocationNamecm %}<li>{{ site.eventLocationNamecm }}</li>{% endif %}
-                        <li>{{ site.eventStreetAddresscm }}, {{ site.eventAddressLocalitycm }}</li>
+                        {% if site.cmeventLocationName %}<li>{{ site.cmeventLocationName }}</li>{% endif %}
+                        <li>{{ site.cmeventStreetAddress }}, {{ site.cmeventAddressLocality }}</li>
                         <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
                         <li>
-                            {% assign startTimecm = site.eventStartTimecm | split: "T" %}
-                            <time>{{ startTimecm[1] }}</time> -
-                            {% assign endTimecm = site.eventEndTimecm | split: "T" %}
-                            <time>{{ endTimecm[1] }}</time>
+                            {% assign cmstartTime = site.cmeventStartTime | split: "T" %}
+                            <time>{{ cmstartTime[1] }}</time> -
+                            {% assign cmendTime = site.cmeventEndTime | split: "T" %}
+                            <time>{{ cmendTime[1] }}</time>
                         </li>
                     </ul>
                 </div>
