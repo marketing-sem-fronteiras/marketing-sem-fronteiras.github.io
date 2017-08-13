@@ -47,7 +47,7 @@ heroImage: "hero.jpg"
 heroTitle: "Marketing sem Fronteiras <typeout> 2017"
 eventDate: "Conexão Brasil - Espanha"
 typeoutTextValues: '"", "Madri", "Maringá", "Campo Mourão"'
-typeoutFallback: "Season"
+typeoutFallback: ""
 heroButtons:
   - {permalink: "/#tickets", text: "Reserve sua vaga"}
 
@@ -60,8 +60,8 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "140", specialCharacter: "+", info: "vagas", detail: "em cada cidade"}
- - {count: "6", specialCharacter: "+", info: "horas", detail: "de conteúdo"}
+ - {count: "70", specialCharacter: "+", info: "vagas", detail: "por cidade"}
+ - {count: "3", specialCharacter: "+", info: "horas", detail: "de conteúdo"}
  - {count: "2", specialCharacter: "", info: "palestrante", detail: "daqui e de fora"}
  - {count: "2", specialCharacter: "", info: "temas", detail: "mais debate com o público"}
 
@@ -74,38 +74,38 @@ rockstarSpeakersCount: 2
 rockstarSpeakersTitle: "Palestrantes"
 rockstarSpeakersButtonText: "Saiba mais sobre os palestrantes"
 
+
 # Location Block
 locationBlockTitle: "Localização"
-eventLocationName: "ACIM"
-eventLocationLink: "http://www.acim.com.br/"
-eventStreetAddress: "R. Ver. Basílio Sautchuk, 388"
-eventAddressLocality: "Maringá"
+eventLocationName: "ACICAM"
+eventLocationLink: "http://acicam.com.br/"
+eventStreetAddress: "Av. Irmãos Pereira, 963"
+eventAddressLocality: "Campo Mourão"
 eventAddressLocalityRegion: "Paraná"
-eventPostalCode: "87013-190"
+eventPostalCode: "87301-010"
 eventAddressCountry: "Brasil"
-eventStartTime: "2017-08-28T19:00"
+eventStartTime: "2017-08-21T19:00"
 eventDoorTime: "18:30"
-eventEndTime: "2017-08-28T22:00"
-eventPlaceCoordinates: "-23.4221308, -51.9415136"
-mapCenterCoordinates: "-23.4221308, -51.9415136"
-mapMobileCenterCoordinates: "-23.4225353, -51.9412747"
+eventEndTime: "2017-08-21T22:00"
+eventPlaceCoordinates: "-24.0460299, -52.3786885"
+mapCenterCoordinates: "-24.0460299, -52.3786885"
+mapMobileCenterCoordinates: "-24.0462165, -52.3789421"
 
 # Location2 Block
 locationBlockTitlecm: "Localização"
-eventLocationNamecm: "ACICAM"
-eventLocationLinkcm: "http://acicam.com.br/"
-eventStreetAddresscm: "Av. Irmãos Pereira, 963"
-eventAddressLocalitycm: "Campo Mourão"
+eventLocationNamecm: "ACIM"
+eventLocationLinkcm: "http://www.acim.com.br/"
+eventStreetAddresscm: "R. Ver. Basílio Sautchuk, 388"
+eventAddressLocalitycm: "Maringá"
 eventAddressLocalityRegioncm: "Paraná"
-eventPostalCodecm: "87301-010"
+eventPostalCodecm: "87013-190"
 eventAddressCountrycm: "Brasil"
-eventStartTimecm: "2017-08-21T19:00"
+eventStartTimecm: "2017-08-28T19:00"
 eventDoorTimecm: "18:30"
-eventEndTimecm: "2017-08-21T22:00"
-eventPlaceCoordinatescm: "-24.0460299, -52.3786885"
-mapCenterCoordinatescm: "-24.0460299, -52.3786885"
-mapMobileCenterCoordinatescm: "-24.0462165, -52.3789421"
-
+eventEndTimecm: "2017-08-28T22:00"
+eventPlaceCoordinatescm: "-23.4221308, -51.9415136"
+mapCenterCoordinatescm: "-23.4221308, -51.9415136"
+mapMobileCenterCoordinatescm: "-23.4225353, -51.9412747"
 
 # Partners Block
 organizersTitle: "Organizadores"
@@ -138,7 +138,7 @@ ticketsOffers:
   priceCurrency: "R$"
   ticketsNumber: "70"
   ribbon: "28/08"
-  buyButtonLink: ""
+  buyButtonLink: "http://"
   buyButtonText: "Reserve Agora"
   ticketContentList: ["Tendências e Insights na Era Digital", "Sua página Web está desenhada para quem? SEO - Descobrindo seu buyer persona"]
   validFrom: "2017-08-28T19:00"
@@ -159,7 +159,7 @@ footerBlocks:
  -
   title: "Contato"
   links:
-   - {link: "mailto:contato@soraianovaes.com", text: "contato@soraianovaes.com"}
+   - {link: "mailto:contato@soraianovaes.com", text: "Envie um Email"}
 
 # Blog
 blogTitle: "Últimas Notícias"
