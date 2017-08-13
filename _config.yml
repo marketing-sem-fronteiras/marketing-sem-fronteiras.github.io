@@ -14,11 +14,11 @@ title: "Marketing sem Fronteiras"
 email: "contato@soraianovaes.com"
 description: "Conexão Brasil Espanha"
 baseurl: ""
-url: "https://marketing-sem-fronteiras.github.io"
-permalink: "/blog/:title"
+url: "http://marketingsemfronteiras.com.br"
+permalink: "/:title"
 googleAnalyticsTrackingId: ""
 googleAnalyticsSiteUrl: ""
-siteVerification: "AIzaSyDYz3LqU75zp-Q2GcUMGj3chXQy0_bzsw0"
+siteVerification: "5i-U2JCDBGRZ7111DEL1lgKMX-bfBfWl2EMHlmtgYks
 
 # Organizer Info
 organizerName: "Marketing Sem Fronteiras"
