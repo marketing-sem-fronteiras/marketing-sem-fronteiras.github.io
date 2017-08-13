@@ -74,7 +74,6 @@ rockstarSpeakersCount: 2
 rockstarSpeakersTitle: "Palestrantes"
 rockstarSpeakersButtonText: "Saiba mais sobre os palestrantes"
 
-
 # Location Block
 locationBlockTitle: "Localização"
 eventLocationName: "ACICAM"
@@ -89,7 +88,7 @@ eventDoorTime: "18:30"
 eventEndTime: "2017-08-21T22:00"
 eventPlaceCoordinates: "-24.0460299, -52.3786885"
 mapCenterCoordinates: "-24.0460299, -52.3786885"
-mapMobileCenterCoordinates: "-24.0462165, -52.3789421"
+mapMobileCenterCoordinates: "-24.0460299, -52.3786885"
 
 # Location2 Block
 locationBlockTitlecm: "Localização"
