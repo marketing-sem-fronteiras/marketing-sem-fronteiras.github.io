@@ -49,8 +49,9 @@ eventDate: "Conexão Brasil - Espanha"
 typeoutTextValues: '"", "Madri", "Maringá", "Campo Mourão"'
 typeoutFallback: ""
 heroButtons:
+  - {link: "/schedule/", text: "Confira a Programação"}
   - {permalink: "/#tickets", text: "Reserve sua vaga"}
-
+  
 # About Block
 aboutTitle: "Sobre o Evento"
 aboutBlock:
