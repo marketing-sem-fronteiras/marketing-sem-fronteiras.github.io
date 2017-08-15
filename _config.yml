@@ -61,9 +61,9 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "70", specialCharacter: "+", info: "vagas", detail: "por cidade"}
- - {count: "3", specialCharacter: "+", info: "horas", detail: "de conteúdo"}
- - {count: "2", specialCharacter: "", info: "palestrantes", detail: "daqui e de fora"}
+ - {count: "100", specialCharacter: "", info: "vagas", detail: "por cidade"}
+ - {count: "3", specialCharacter: "", info: "horas", detail: "de conteúdo"}
+ - {count: "2", specialCharacter: "", info: "palestrantes", detail: "daqui e deda Espanha"}
  - {count: "2", specialCharacter: "", info: "temas", detail: "+ debate com o público"}
 
 # Latest News Block
@@ -152,6 +152,7 @@ ticketsOffers:
 socialLinks:
  - {link: "https://twitter.com/intent/user?screen_name=edtecnova", icon: "twitter"}
  - {link: "https://facebook.com/professoragoogle", icon: "facebook"}
+ - {link: "https://www.youtube.com/channel/UCbeA7EZaM1ogY7p0UkhvLWw", icon: "youtube"}
 
 footerBlocks:
  -
