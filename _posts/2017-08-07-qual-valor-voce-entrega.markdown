@@ -5,7 +5,7 @@ date:   2017-08-07 08:00:00
 isStaticPost: false
 ---
 
-Descubra como construir uma frase de Valor de Marca respondendo as perduntas do formulário. Receba automaticamente seu resultado. 
+Descubra como construir uma frase de Valor de Marca respondendo as perguntas do formulário e receba automaticamente o resultado. 
 
 <iframe src="https://embed.ted.com/talks/lang/pt-br/simon_sinek_how_great_leaders_inspire_action" width="100%" height="460" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 

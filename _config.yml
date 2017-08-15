@@ -128,7 +128,7 @@ ticketsOffers:
   name: "Campo Mourão"
   price: "Gratuito"
   priceCurrency: "R$"
-  ticketsNumber: "70"
+  ticketsNumber: "100"
   ribbon: "21/08"
   featured: true
   buyButtonLink: "https://goo.gl/forms/oAZe4WqbxZQognHC2"
@@ -140,11 +140,11 @@ ticketsOffers:
   name: "Maringá"
   price: "Gratuito"
   priceCurrency: "R$"
-  ticketsNumber: "70"
+  ticketsNumber: "100"
   ribbon: "28/08"
   buyButtonLink: "https://goo.gl/forms/PG5C7rxrSdt3gPR12"
   buyButtonText: "Reserve Agora"
-  ticketContentList: ["Tendências e Insights na Era Digital", "Sua página Web está desenhada para quem? SEO - Descobrindo seu buyer persona"]
+  ticketContentList: [ "Sua página Web está desenhada para quem? SEO - Descobrindo seu buyer persona", "Tendências e Insights na Era Digital"]
   validFrom: "2017-08-28T19:00"
   validThrough: "2017-08-28T22:00"
   
