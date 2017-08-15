@@ -8,6 +8,13 @@ markdown: kramdown
 permalink: pretty
 exclude: ['README.md', 'LICENSE.txt', 'CNAME']
 
+# Manifest
+manifest_name: Marketing sem Fronteiras
+manifest_short_name: Marketing sem Fronteiras # Appears in "Add to home screen" dialogues and may have other importance also
+manifest_lang: pt-br
+manifest_background_color: white
+manifest_short_name:
+manifest_display: standalone
 
 # Site Settings
 title: "Marketing sem Fronteiras"
