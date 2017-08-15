@@ -1,6 +1,7 @@
 - 
   group: ""
   elements: 
+    - {name: "DigitalFriends", description: "Uma união de amigos gerando serviços digitais de qualidade, mais que uma agência somos seus amigos.", link: "http://digitalfriends.com.br/", imageUrl: "logodigitalfriends.png"}
     - {name: "ApdWeb", description: "Marketing Online APDWeb es un grupo de Expertos en Community Manager, Posicionamiento SEO, Páginas Web y Desarrollo de Apps", link: "http://www.apdweb.es/", imageUrl: "apdweb.png"}
     - {name: "EdTecNova", description: "Educação + Tecnologia = Inovação", link: "https://edtecnova.es/", imageUrl: "edtecapp.png"}
     - {name: "Desafio do Código", description: "Aprenda a programar um computador. Seu futuro vai depender cada vez mais desse conhecimento. ", link: "http://desafiodocodigo.com.br/desafio/", imageUrl: "desafio.png"}
