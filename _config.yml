@@ -8,14 +8,6 @@ markdown: kramdown
 permalink: pretty
 exclude: ['README.md', 'LICENSE.txt', 'CNAME']
 
-# Manifest
-manifest_name: Marketing sem Fronteiras
-manifest_short_name: Marketing sem Fronteiras # Appears in "Add to home screen" dialogues and may have other importance also
-manifest_lang: pt-br
-manifest_background_color: white
-manifest_short_name:
-manifest_display: standalone
-
 # Site Settings
 title: "Marketing sem Fronteiras"
 email: "contato@soraianovaes.com"
@@ -26,6 +18,14 @@ permalink: "/:title"
 googleAnalyticsTrackingId: "UA-71228062-24"
 googleAnalyticsSiteUrl: "marketingsemfronteiras.com.br"
 siteVerification: "5i-U2JCDBGRZ7111DEL1lgKMX-bfBfWl2EMHlmtgYks"
+
+# Manifest
+manifest_name: Marketing sem Fronteiras
+manifest_short_name: Marketing sem Fronteiras # Appears in "Add to home screen" dialogues and may have other importance also
+manifest_lang: pt-br
+manifest_background_color: white
+manifest_short_name: 
+manifest_display: standalone
 
 # Organizer Info
 organizerName: "Marketing Sem Fronteiras"
@@ -82,7 +82,6 @@ rockstarSpeakersCount: 2
 rockstarSpeakersTitle: "Palestrantes"
 rockstarSpeakersButtonText: "Saiba mais sobre os palestrantes"
 
-
 # Location Block
 locationBlockTitle: "Localização"
 eventLocationName: "ACIM"
@@ -98,7 +97,6 @@ eventEndTime: "2017-08-28T22:00"
 eventPlaceCoordinates: "-23.4221308, -51.9415136"
 mapCenterCoordinates: "-23.4221308, -51.9415136"
 mapMobileCenterCoordinates: "-23.4225353, -51.9412747"
-
 
 # Hackathon Location Block
 hackathonLocationBlockTitle: "Localização"
@@ -184,4 +182,3 @@ showSessions: true
 # Team Block
 teamBlockTitle: "Sobre o Evento"
 aboutUs: "A comunicação está em constante transformação e, nesse cenário, acompanhar todas essas mudanças, aproveitando o melhor de cada alternativa, é o grande desafio para as empresas que estão batalhando pela atenção do consumidor. O Marketing Digital ampliou a forma como as marcas se aproximam de seu público e encurtou caminhos e conseguir enxergar esses movimentos e acompanhar todo esse dinamismo é fundamental para se manter no mercado. O evento promove a abertura de um espaço para potencializar e ampliar encontros e diálogos entre empreendedores e líderes, além de demonstrar aplicações práticas de ferramentas para colaboração, autoria, criação, aprendizado."
-
