@@ -1,6 +1,6 @@
 - 
-  date: "2017-08-21"
-  dateReadable: "Agosto 21 em Campo Mourão"
+  date: "2017-08-28"
+  dateReadable: "Agosto 28 em Campo Mourão"
   tracks: 
     - {title: "Marketing sem Fronteiras", color: "#90be4e"}
   
@@ -21,8 +21,8 @@
     	sessionIds: [307]
     }
 - 
-  date: "2017-08-28"
-  dateReadable: "Agosto 28 em Maringá"
+  date: "2017-08-29"
+  dateReadable: "Agosto 29 em Maringá"
   tracks: 
    - {title: "Marketing sem Fronteiras", color: "#90be4e"}
    
