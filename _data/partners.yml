@@ -1,6 +1,7 @@
 - 
   group: ""
   elements: 
-    - {name: "ACICAM", description: "Associação Comercial de Campo Mourão", link: "http://acicam.com.br", imageUrl: "logo-acicam1.png"}
-    - {name: "ACIM", description: "Associação Comercial de Maringá", link: "http://acicam.com.br", imageUrl: "logo-codecam.png"}
     - {name: "CODECAM", description: "Conselho de Desenvolvimento de Campo Mourão", link: "http://www.acim.com.br/", imageUrl: "logoacim.png"}
+    - {name: "ACICAM", description: "Associação Comercial de Campo Mourão", link: "http://acicam.com.br", imageUrl: "logo-acicam1.png"}
+    - {name: "EVOA", description: "Evoa", link: "", imageUrl: "evoa.png"}
+    
