@@ -68,7 +68,7 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "100", specialCharacter: "", info: "vagas", detail: "por cidade"}
+ - {count: "130", specialCharacter: "", info: "vagas", detail: "nas duas cidades"}
  - {count: "3", specialCharacter: "", info: "horas", detail: "de conteúdo"}
  - {count: "2", specialCharacter: "", info: "palestrantes", detail: "daqui e da Espanha"}
  - {count: "2", specialCharacter: "", info: "temas", detail: "+ debate com o público"}
@@ -84,8 +84,8 @@ rockstarSpeakersButtonText: "Saiba mais sobre os palestrantes"
 
 # Location Block
 locationBlockTitle: "Localização"
-eventLocationName: "EVOA"
-eventLocationLink: ""
+eventLocationName: "EVOA ACELERADORA"
+eventLocationLink: "https://www.facebook.com/evoaaceledarora/"
 eventStreetAddress: "Av. Bento Munhoz da Rocha Neto, 632, Torre Norte, sobreloja 2"
 eventAddressLocality: "Maringá"
 eventAddressLocalityRegion: "Paraná"
@@ -145,13 +145,13 @@ ticketsOffers:
   name: "Maringá"
   price: "Gratuito"
   priceCurrency: "R$"
-  ticketsNumber: "100"
+  ticketsNumber: "30"
   ribbon: "29/08"
   buyButtonLink: "https://goo.gl/forms/PG5C7rxrSdt3gPR12"
   buyButtonText: "Reserve Agora"
   ticketContentList: ["Sua página Web está desenhada para quem? SEO - Descobrindo seu buyer persona", "Tendências e Insights na Era Digital", "Horário: 19hs <br/>Local: EVOA <br/>Av. Bento Munhoz da Rocha Neto, 632, Torre Norte, sobreloja 2"]
-  validFrom: "2017-08-28T19:00"
-  validThrough: "2017-08-28T22:00"
+  validFrom: "2017-08-28T16:00"
+  validThrough: "2017-08-28T17:30"
   
 # Footer
 socialLinks:
